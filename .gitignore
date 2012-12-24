@@ -1,0 +1,16 @@
+# ReSharper files
+*ReSharper*
+*DotSettings
+
+# Visual Studio User Option file
+*.suo
+*.user
+
+# Build objects
+bin
+obj
+
+# Binary files
+*.dll
+*.jar
+
